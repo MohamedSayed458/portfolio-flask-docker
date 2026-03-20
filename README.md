@@ -43,7 +43,7 @@ devops-portfolio-aws/
 ```bash
 # Clone the repo
 git clone https://github.com/MohamedSayed458/portfolio-flask-docker.git
-cd devops-portfolio-aws
+cd portfolio-flask-docker
 
 # Build and run with Docker
 docker build -t portfolio .
