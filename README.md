@@ -34,10 +34,6 @@ devops-portfolio-aws/
 ├── Dockerfile             # Container build configuration
 ├── docker-compose.yml     # Multi-container orchestration (optional)
 ├── requirements.txt       # Python dependencies
-├── static/                # Static assets (images, CSS)
-│   └── profile.jpg        # Profile image
-├── .gitignore             # Git ignore rules
-├── renew.sh               # Deployment automation script
 └── README.md              # Project documentation
 ```
 
@@ -46,7 +42,7 @@ devops-portfolio-aws/
 ### Local Development
 ```bash
 # Clone the repo
-git clone https://github.com/MohamedSayed458/devops-portfolio-aws.git
+git clone https://github.com/MohamedSayed458/portfolio-flask-docker.git
 cd devops-portfolio-aws
 
 # Build and run with Docker
@@ -70,7 +66,7 @@ This application is deployed on AWS EC2 using:
 ### Deployment Commands (on EC2)
 ```bash
 # Pull and build
-git clone https://github.com/MohamedSayed458/devops-portfolio-aws.git
+git clone https://github.com/MohamedSayed458/portfolio-flask-docker.git
 cd devops-portfolio-aws
 docker build --no-cache -t portfolio .
 
