@@ -47,7 +47,7 @@ cd portfolio-flask-docker
 
 # Build and run with Docker
 docker build -t portfolio .
-docker run -d -p 80:5000 --name portfolio-app portfolio
+docker run -d -p 8000:5000 --name portfolio-app portfolio
 ```
 
 ### Access the Application
