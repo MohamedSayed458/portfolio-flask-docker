@@ -6,9 +6,11 @@
 
 ## Live Demo
 
-- Application: [http://51.20.55.234/](http://51.20.55.234/)
-    
-- Health Check: [http://51.20.55.234/health](http://51.20.55.234/health)
+> **Status:** This application was deployed and running on **AWS EC2** (Dockerized, behind a public IP). The environment has since been **decommissioned** (the AWS account expired), so the URLs below are **no longer reachable**. The Dockerfile, Compose file, and CI pipeline in this repository reproduce the exact deployment locally or on any host.
+
+- Application: ~~`http://51.20.55.234/`~~ *(offline)*
+
+- Health Check: ~~`http://51.20.55.234/health`~~ *(offline)*
     
 
 ---
