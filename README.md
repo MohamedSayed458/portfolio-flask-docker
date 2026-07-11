@@ -83,7 +83,7 @@ portfolio-flask-docker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MohamedSayed458/portfolio-flask-docker.git
+git clone https://github.com/Mohamed-Newish/portfolio-flask-docker.git
 cd portfolio-flask-docker
 ```
 
@@ -122,5 +122,5 @@ This project includes a GitHub Actions pipeline that:
 **Mohamed Newish**  
 Junior DevOps Engineer
 
-GitHub: [https://github.com/MohamedSayed458](https://github.com/MohamedSayed458)  
+GitHub: [https://github.com/Mohamed-Newish](https://github.com/Mohamed-Newish)  
 LinkedIn: [https://www.linkedin.com/in/mohamed-newish-8470a5395](https://www.linkedin.com/in/mohamed-newish-8470a5395)

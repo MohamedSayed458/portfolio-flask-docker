@@ -262,7 +262,7 @@ def home():
                 </p>
                 <div>
                     <a href="#projects" class="btn">View Projects</a>
-                    <a href="https://github.com/MohamedSayed458" target="_blank" class="btn btn-outline">
+                    <a href="https://github.com/Mohamed-Newish" target="_blank" class="btn btn-outline">
                         <i class="fab fa-github"></i> GitHub
                     </a>
                 </div>
@@ -346,7 +346,7 @@ def home():
                                 <span class="tag">CI/CD</span>
                             </div>
                             <div class="project-links">
-                                <a href="https://github.com/MohamedSayed458/journey-app-devops" target="_blank">
+                                <a href="https://github.com/Mohamed-Newish/journey-app-devops" target="_blank">
                                     <i class="fab fa-github"></i> View Code
                                 </a>
                                 <a href="http://a12dbdb2a78324118ba89471eb8275c4-e04e8f518750cc31.elb.eu-north-1.amazonaws.com/" target="_blank">
@@ -370,7 +370,7 @@ def home():
                                 <span class="tag">GitHub Actions</span>
                             </div>
                             <div class="project-links">
-                                <a href="https://github.com/MohamedSayed458/portfolio-flask-docker" target="_blank">
+                                <a href="https://github.com/Mohamed-Newish/portfolio-flask-docker" target="_blank">
                                     <i class="fab fa-github"></i> View Code
                                 </a>
                                 <a href="/health" target="_blank">
@@ -393,7 +393,7 @@ def home():
                                 <span class="tag">Security</span>
                             </div>
                             <div class="project-links">
-                                <a href="https://github.com/MohamedSayed458/Sharingan" target="_blank">
+                                <a href="https://github.com/Mohamed-Newish/Sharingan" target="_blank">
                                     <i class="fab fa-github"></i> View Code
                                 </a>
                             </div>
@@ -402,7 +402,7 @@ def home():
 
                     <div class="project-card">
                         <div class="project-content">
-                            <h3>LFler</h3>
+                            <h3>LFIer</h3>
                             <p>
                                 Python-based utility for automated identification and testing of Local File Inclusion (LFI)
                                 vulnerabilities. Demonstrates deep understanding of web security flaws.
@@ -413,7 +413,7 @@ def home():
                                 <span class="tag">OWASP</span>
                             </div>
                             <div class="project-links">
-                                <a href="https://github.com/MohamedSayed458/LFler" target="_blank">
+                                <a href="https://github.com/Mohamed-Newish/LFIer" target="_blank">
                                     <i class="fab fa-github"></i> View Code
                                 </a>
                             </div>
@@ -427,7 +427,7 @@ def home():
         <footer id="contact">
             <div class="container">
                 <div class="social-links">
-                    <a href="https://github.com/MohamedSayed458" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://github.com/Mohamed-Newish" target="_blank"><i class="fab fa-github"></i></a>
                     <a href="mailto:mohamedsayed2646@gmail.com"><i class="fas fa-envelope"></i></a>
                     <a href="https://www.linkedin.com/in/mohamed-newish-8470a5395/" target="_blank"><i class="fab fa-linkedin"></i></a>
                 </div>
@@ -462,7 +462,7 @@ def api():
             "journey-app-devops",
             "portfolio-flask-docker",
             "Sharingan",
-            "LFler"
+            "LFIer"
         ]
     })
 
