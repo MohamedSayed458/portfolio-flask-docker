@@ -122,7 +122,7 @@ This project includes a GitHub Actions pipeline that:
 ## Author
 
 **Mohamed Newish**  
-Junior DevOps Engineer
+DevOps Engineer — Chemnitz, Germany
 
 GitHub: [https://github.com/Mohamed-Newish](https://github.com/Mohamed-Newish)  
 LinkedIn: [https://www.linkedin.com/in/mohamed-newish-8470a5395](https://www.linkedin.com/in/mohamed-newish-8470a5395)
